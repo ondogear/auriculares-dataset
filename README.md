@@ -4,6 +4,8 @@ Especificaciones de los auriculares que se venden en España, recopiladas y revi
 [Ondo](https://ondogear.com), el buscador de auriculares. Formato, conexión, códecs, batería, peso, impedancia y
 compatibilidad con PC, móvil, PS5, Xbox y Switch, en CSV y JSON.
 
+Página oficial y descargas: **[ondogear.com/datos](https://ondogear.com/datos/)**.
+
 *English summary below.*
 
 ## Qué hay
