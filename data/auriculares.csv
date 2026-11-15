@@ -1,4 +1,4 @@
-id,brand,model,form,back,connection,plugs,platforms,uses,anc,mic,multipoint,battery_hours,weight_g,driver,driver_type,impedance_ohm,codecs,surround,water,release_year,official_url,ondo_url
+﻿id,brand,model,form,back,connection,plugs,platforms,uses,anc,mic,multipoint,battery_hours,weight_g,driver,driver_type,impedance_ohm,codecs,surround,water,release_year,official_url,ondo_url
 7hz-salnotes-zero,7Hz,Salnotes Zero,in-ear,,wired,3.5mm,pc|mobile,music,false,none,,,,Dinámico 10 mm,dynamic,32,,false,,2022,,https://ondogear.com/auriculares/7hz-salnotes-zero/
 7hz-zero-2,7Hz,Salnotes Zero:2,in-ear,,wired,3.5mm|usb-c,pc|mobile,music|gaming,false,inline,,,,Dinámico 10 mm,dynamic,32,,false,,2023,,https://ondogear.com/auriculares/7hz-zero-2/
 akg-k240-studio,AKG,K240 Studio,over-ear,semi-open,wired,3.5mm|6.35mm,pc|mobile,music|studio,false,none,,,240,Dinámico 30 mm,dynamic,55,,false,,,,https://ondogear.com/auriculares/akg-k240-studio/
